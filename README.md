@@ -49,7 +49,7 @@
 #### 建议版本
 
 - Jdk1.8
-- Mysql5.8
+- Mysql5.7
 - Maven 3.6.1
 - Redis随便
 
