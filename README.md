@@ -1,6 +1,6 @@
 ## Blue_blog
-
-
+演示地址：https://www.bilibili.com/video/BV15e4y1c7Up/?vd_source=ff765505d9632c291d84b431b9cfb4df
+未完成实现，等找到实习后再继续完善
 
 #### 介绍
 
